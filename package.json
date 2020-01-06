@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/calvincheng-401d3/demo-01#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^24.9.0"
   }
 }
